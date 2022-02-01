@@ -1,6 +1,5 @@
 import math
 import ipaddress
-import tkinter as tk
 from IPy import IP
 
 
